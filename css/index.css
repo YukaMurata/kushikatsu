@@ -1,0 +1,45 @@
+body {
+  padding: 30px;
+}
+.wrapper {
+}
+
+.text {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.item {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+.button {
+  width: 80%;
+  height: 45px;
+  margin: 20px auto 0;
+  background: #1da1f2;
+}
+.button a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  padding: 5% 0;
+}
+
+.reset {
+  width: 80%;
+  height: 45px;
+  margin: 20px auto 0;
+  background: #f5a9f2;
+}
+.reset a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  padding: 5% 0;
+}
